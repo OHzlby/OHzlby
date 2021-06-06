@@ -16,3 +16,10 @@
 ### LINKS:
 - [Twitter](https://twitter.com/OHzlby)
 - [Instagram](https://instagram.com/OHzlby)
+
+### KEYS:
+- ➕ - Added
+- ➖ - Removed
+- 🔨 - Fixed
+- 📝 - Edited
+- ❓ - Updated Q+A
